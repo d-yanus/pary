@@ -1,3 +1,3 @@
 # pary
 
-i dziala!
+nowy sposob sciagania na kolokwiach odkryty 
